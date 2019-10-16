@@ -1,0 +1,2 @@
+export KOPS_STATE_STORE=s3://student12-courseandlabs-com-1571211462
+export NAME=kubecluster.student12.courseandlabs.com
